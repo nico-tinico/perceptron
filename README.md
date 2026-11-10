@@ -86,6 +86,6 @@ python examples/linear/and.py
 
 The project is developed using Python 3.11+ and aims to keep implementations simple, modular and dependency-free.
 
-## License
+## Project status
 
-To be defined.
+This repository is a work in progress. Some elements are missing; specifically, the files containing only the code necessary for the operation of a linear perceptron based on MSE and the sigmoid function.
