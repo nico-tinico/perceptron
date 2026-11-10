@@ -62,7 +62,7 @@ This approach avoids code duplication and allows different models to reuse commo
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nico-tinico/perceptron.git
 cd perceptron
 ```
 
